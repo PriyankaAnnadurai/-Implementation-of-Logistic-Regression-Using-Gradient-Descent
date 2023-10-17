@@ -16,7 +16,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
   5. Define a function to plot the decision boundary and predict the Regression value.
 
 ## Program:
-```
+```py
 Program to implement the the Logistic Regression Using Gradient Descent.
 # Developed by: PRIYANKA.A
 # RegisterNumber:  212222230113
